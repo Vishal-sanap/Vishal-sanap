@@ -40,5 +40,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=skyblue&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="vishal-sanap-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vishal-sanap-?trk=profile-badge">Vishal Sanap</a></div>
+              
 
 ###
