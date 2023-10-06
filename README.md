@@ -1,4 +1,4 @@
-![logo](https://github.com/Vishal-sanap/Vishal-sanap/blob/main/Git%20Banner.png)
+![logo](https://github.com/Vishal-sanap/Vishal-sanap/blob/main/_vishal%20sanap%20banner.png)
 <h1 align="center">Hi 👋, I'm Vishal Sanap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
